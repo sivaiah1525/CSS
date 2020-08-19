@@ -1,0 +1,130 @@
+body{
+  background:url("images/bg.jpg") no-repeat fixed ;
+  background-size:cover;
+  margin:0;
+  font-family:"Comic Sans Ms",sans-serif;
+
+}
+.header{
+  text-align: center;
+  color:white;
+  }
+  .header h1{
+    font-size:70px;
+    margin:0;
+    padding-top:100px;
+  }
+  .header p{
+    margin:0;
+    padding:0;
+    font-size:15px;
+  }
+  .img1 {
+    margin:50px 250px;
+    margin-bottom:-5px;
+  }
+  .para1{
+  background-color:#ffffff;
+  width:1180px;
+  margin-left:250px;
+  padding-top:80px;
+
+}
+  .para2 {
+  font-weight: lighter;
+  text-align:center;
+  }
+.para3 {
+  background-color:#f6f6f4;
+  padding:50px 100px;
+}
+.fimg{
+  margin-bottom:-10px;
+}
+.gallery{
+  background-color:#242428;
+  width:1180px;
+  margin-left:250px;
+  }
+.gallery1{
+  background-color:#191a1c;
+  color:white;
+  text-align:center;
+  margin:10px 100px;
+  padding:20px;
+  margin-bottom:-10px;
+  }
+  .gallery2 {
+    float:left;
+  }
+  .gallery4{
+    float:left;
+  }
+  .gallery2 img{
+    width:490px;
+}
+  .gallery3 img{
+    width:490px;
+  }
+  .gallery4 img{
+    width:490px;
+  }
+  .gallery5 img{
+    width:490px;
+  }
+  .menu{
+    margin-left:100px;
+    margin-right:30px;
+  }
+  .pic1 img,.pic3 img{
+    float:left;
+    width:600px;
+    margin-top:80px;
+  }
+.pic2 img{
+  float:right;
+  width:600px;
+  margin-top:80px;
+}
+.p1 {
+  background-color:#ffffff;;
+  width:500px;
+  height:150px;
+  padding:150px 40px;
+  display:inline-block;
+  margin-top:80px;
+}
+.p2 {
+  color:#ffffff;;
+  width:500px;
+  height:150px;
+  padding:150px 40px;
+  display:inline-block;
+  margin-top:80px;
+}
+
+.p3 {
+  background-color:#ffffff;;
+  width:500px;
+  height:150px;
+  padding:150px 40px;
+  display:inline-block;
+  margin-top:80px;
+}
+.pp1{
+  color:gray;
+}
+.footer{
+  margin-top:80px;
+  margin-left:500px;
+  color:white;
+  }
+  .icon {
+    font-size:50px;
+    margin-left:200px;
+    padding:20px;
+  }
+  .footer p{
+    font-size:15px;
+    margin-left:100px;
+  }
